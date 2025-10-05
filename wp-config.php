@@ -1,8 +1,8 @@
 <?php
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');
-define('DB_PASSWORD', 'XJcdPnUEAYVtmKSvHBIAoqSXPYhuLFeX');
-define('DB_HOST', 'gondola.proxy.rlwy.net:39435');
+define('DB_PASSWORD', 'nYIARpqfkKJhXbkFvBEefHXSizRaXjba');
+define('DB_HOST', 'yamabiko.proxy.rlwy.net:48975');
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 $table_prefix = 'wp_';
